@@ -5,11 +5,16 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
     background-color: hsl(212, 45%, 89%);
     font-size: 1rem;
     font-family: "Outfit";
-    padding:
 }
+
 
 section {
     background: hsl(0, 0%, 100%);
@@ -18,11 +23,7 @@ section {
 }
 
 section {
-    display: flex;
-    flex-direction: column;
-    /* justify-content: center;
-    align-items: center; */
-    margin:  4em auto;
+    margin: auto;
     width: 90%;
     max-width: 375px;
 }
@@ -49,7 +50,9 @@ p {
 }
 
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 0.6rem; 
+    text-align: center; 
+    padding: 1em;
 }
 
 .attribution a {
