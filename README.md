@@ -18,6 +18,7 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 
 Use external font-family.
 Align page vertically.
+Add screenshot to README file.
 
 ## Links
 
