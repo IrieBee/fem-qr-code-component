@@ -11,6 +11,12 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 
   -HTML
   -CSS
+  -Flexbox
+
+### What I learned
+
+Use external font-family.
+Align page vertically.
 
 ## Links
 
