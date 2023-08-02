@@ -5,10 +5,6 @@
 }
 
 body {
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
     background-color: hsl(212, 45%, 89%);
     font-size: 1rem;
     font-family: "Outfit";
@@ -16,7 +12,7 @@ body {
 }
 
 section {
-    background: white;
+    background: hsl(0, 0%, 100%);
     padding: 1em;
     border-radius: 5%;
 }
@@ -24,27 +20,32 @@ section {
 section {
     display: flex;
     flex-direction: column;
-    margin: auto;
+    /* justify-content: center;
+    align-items: center; */
+    margin:  4em auto;
     width: 90%;
-    max-width: 650px;
+    max-width: 375px;
 }
 
 img {
     border-radius: 5%;
+    max-width: 100%;
 }
 
 .text {
-    padding: 2em 1em;
+    padding: 2em 1.7em;
     text-align: center;
 }
 
 h1 {
     font-weight: 900;
+    color: hsl(218, 44%, 22%);
 }
 
 p {
     padding-top: 1.5em;
     line-height: 1.25em;
+    color: hsl(220, 15%, 55%);
 }
 
 .attribution { 
