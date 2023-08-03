@@ -1,4 +1,4 @@
-# QR code component - from Frontend Mentor website.
+# QR code component.
 
 ## Overview
 
