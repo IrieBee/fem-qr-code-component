@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a solution to the QR code component challenge on Frontend Mentor.
+This is a solution to the QR code component challenge from Frontend Mentor.
 
 ### Screenshot
 
@@ -17,7 +17,7 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 ### What I learned
 
 Use external font-family.
-Align page vertically.
+Align page vertically (min-height:100vh worked).
 Add screenshot to README file.
 
 ## Links
