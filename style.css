@@ -11,8 +11,8 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: hsl(212, 45%, 89%);
-    font-size: 1rem;
-    font-family: "Outfit";
+    font-size: 0.94rem;
+    font-family: "Outfit", sans-serif;
 }
 
 
@@ -20,13 +20,11 @@ section {
     background: hsl(0, 0%, 100%);
     padding: 1em;
     border-radius: 5%;
-}
-
-section {
     margin: auto;
     width: 90%;
     max-width: 375px;
 }
+
 
 img {
     border-radius: 5%;
@@ -34,7 +32,7 @@ img {
 }
 
 .text {
-    padding: 2em 1.7em;
+    padding: 1.5em 1.7em;
     text-align: center;
 }
 
@@ -44,7 +42,7 @@ h1 {
 }
 
 p {
-    padding-top: 1.5em;
+    padding-top: 1em;
     line-height: 1.25em;
     color: hsl(220, 15%, 55%);
 }
