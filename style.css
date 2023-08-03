@@ -16,7 +16,7 @@ body {
 }
 
 
-section {
+main {
     background: hsl(0, 0%, 100%);
     padding: 1em;
     border-radius: 5%;
