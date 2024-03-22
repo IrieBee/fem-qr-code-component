@@ -6,7 +6,7 @@ This is a solution to the QR code component challenge from Frontend Mentor.
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-qr-code-component/blob/main/images/screenShot.jpg)
+![screenshot](https://github.com/IrieBee/fem-qr-code-component/blob/main/images/screenShot.jpg)
 
 ## Built with
 
@@ -22,8 +22,8 @@ Add screenshot to README file.
 
 ## Links
 
-- Solution URL: https://github.com/ltsyBitsy/fem-qr-code-component
-- Live Site URL: https://ltsybitsy.github.io/fem-qr-code-component/
+- Solution URL: https://github.com/IrieBee/fem-qr-code-component
+- Live Site URL: https://IrieBee.github.io/fem-qr-code-component/
 
 ## Acknowledgements
 
